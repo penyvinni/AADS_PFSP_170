@@ -1,0 +1,80 @@
+File: ./Taillard-PFSP/ta001.txt
+Tabu Search Makespan: 522
+
+
+File: ./Taillard-PFSP/ta002.txt
+Tabu Search Makespan: 721
+
+
+File: ./Taillard-PFSP/ta003.txt
+Tabu Search Makespan: 532
+
+
+File: ./Taillard-PFSP/ta004.txt
+Tabu Search Makespan: 710
+
+
+File: ./Taillard-PFSP/ta005.txt
+Tabu Search Makespan: 533
+
+
+File: ./Taillard-PFSP/ta006.txt
+Tabu Search Makespan: 687
+
+
+File: ./Taillard-PFSP/ta007.txt
+Tabu Search Makespan: 614
+
+
+File: ./Taillard-PFSP/ta008.txt
+Tabu Search Makespan: 633
+
+
+File: ./Taillard-PFSP/ta009.txt
+Tabu Search Makespan: 607
+
+
+File: ./Taillard-PFSP/ta010.txt
+Tabu Search Makespan: 470
+
+
+File: ./Taillard-PFSP/ta011.txt
+Tabu Search Makespan: 640
+
+
+File: ./Taillard-PFSP/ta012.txt
+Tabu Search Makespan: 710
+
+
+File: ./Taillard-PFSP/ta013.txt
+Tabu Search Makespan: 587
+
+
+File: ./Taillard-PFSP/ta014.txt
+Tabu Search Makespan: 542
+
+
+File: ./Taillard-PFSP/ta015.txt
+Tabu Search Makespan: 616
+
+
+File: ./Taillard-PFSP/ta016.txt
+Tabu Search Makespan: 611
+
+
+File: ./Taillard-PFSP/ta017.txt
+Tabu Search Makespan: 625
+
+
+File: ./Taillard-PFSP/ta018.txt
+Tabu Search Makespan: 563
+
+
+File: ./Taillard-PFSP/ta019.txt
+Tabu Search Makespan: 666
+
+
+File: ./Taillard-PFSP/ta020.txt
+Tabu Search Makespan: 665
+
+

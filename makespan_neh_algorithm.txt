@@ -1,0 +1,60 @@
+File: ./Taillard-PFSP/ta001.txtNEH Search Makespan: 699
+
+
+File: ./Taillard-PFSP/ta002.txtNEH Search Makespan: 897
+
+
+File: ./Taillard-PFSP/ta003.txtNEH Search Makespan: 692
+
+
+File: ./Taillard-PFSP/ta004.txtNEH Search Makespan: 879
+
+
+File: ./Taillard-PFSP/ta005.txtNEH Search Makespan: 742
+
+
+File: ./Taillard-PFSP/ta006.txtNEH Search Makespan: 750
+
+
+File: ./Taillard-PFSP/ta007.txtNEH Search Makespan: 782
+
+
+File: ./Taillard-PFSP/ta008.txtNEH Search Makespan: 743
+
+
+File: ./Taillard-PFSP/ta009.txtNEH Search Makespan: 782
+
+
+File: ./Taillard-PFSP/ta010.txtNEH Search Makespan: 631
+
+
+File: ./Taillard-PFSP/ta011.txtNEH Search Makespan: 1104
+
+
+File: ./Taillard-PFSP/ta012.txtNEH Search Makespan: 1287
+
+
+File: ./Taillard-PFSP/ta013.txtNEH Search Makespan: 1014
+
+
+File: ./Taillard-PFSP/ta014.txtNEH Search Makespan: 913
+
+
+File: ./Taillard-PFSP/ta015.txtNEH Search Makespan: 1096
+
+
+File: ./Taillard-PFSP/ta016.txtNEH Search Makespan: 1038
+
+
+File: ./Taillard-PFSP/ta017.txtNEH Search Makespan: 950
+
+
+File: ./Taillard-PFSP/ta018.txtNEH Search Makespan: 1082
+
+
+File: ./Taillard-PFSP/ta019.txtNEH Search Makespan: 1124
+
+
+File: ./Taillard-PFSP/ta020.txtNEH Search Makespan: 1086
+
+

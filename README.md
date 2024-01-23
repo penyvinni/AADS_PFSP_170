@@ -73,4 +73,4 @@ import matplotlib.colors as mcolors
 γραφήματα Gantt για την οπτικοποίηση των προγραμμάτων εκτέλεσης των εργασιών, βελτιώνοντας την κατανόηση των αποτελεσμάτων του αλγορίθμου Flowshop Scheduling.
 
 Στην παρακάτω εικόνα απεικονίζεται ένα γράφημα Gantt το οποίο αντιστοιχείζεται με την λύση του αλγορίθμου ***NEH*** για το πρώτο αρχείο `ta001.txt` :
-![picture alt](https://github.com/penyvinni/AADS_PFSP_170/blob/main/neh_run_ta001_gantt.png 250x250 "NEH Algorithm for ta001.txt file")
+<img src="https://github.com/penyvinni/AADS_PFSP_170/blob/main/neh_run_ta001_gantt.png" width="100" height="100">

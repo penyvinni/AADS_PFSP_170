@@ -72,5 +72,5 @@ import matplotlib.colors as mcolors
 Με τη χρήση αυτών των βιβλιοθηκών, η συνάρτηση `display_schedule` δημιουργεί
 γραφήματα Gantt για την οπτικοποίηση των προγραμμάτων εκτέλεσης των εργασιών, βελτιώνοντας την κατανόηση των αποτελεσμάτων του αλγορίθμου Flowshop Scheduling.
 
-Στην παρακάτω εικόνα φαίνεται ένα 
+Στην παρακάτω εικόνα απεικονίζεται ένα γράφημα Gantt το οποίο αντιστοιχείζεται με την λύση του αλγορίθμου ***NEH*** για το πρώτο αρχείο `ta001.txt` :
 ![picture alt](https://github.com/penyvinni/AADS_PFSP_170/blob/main/neh_run_ta001_gantt.png "NEH Algorithm for ta001.txt file")

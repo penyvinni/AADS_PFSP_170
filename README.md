@@ -69,7 +69,7 @@ python tabu_algorithm.py
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 ```
-Με τη χρήση αυτών των βιβλιοθηκών, η συνάρτηση ΄display_schedule΄ δημιουργεί
+Με τη χρήση αυτών των βιβλιοθηκών, η συνάρτηση `display_schedule` δημιουργεί
 γραφήματα Gantt για την οπτικοποίηση των προγραμμάτων εκτέλεσης των εργασιών, βελτιώνοντας την κατανόηση των αποτελεσμάτων του αλγορίθμου Flowshop Scheduling.
 
 Το αρχείο που περιέχει την υλοποίηση του αλγορίθμου Tabu ονομάζεται ***tabu_algorithm*** και εκτελείται ως εξής:

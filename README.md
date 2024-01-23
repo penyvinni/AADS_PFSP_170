@@ -74,4 +74,4 @@ import matplotlib.colors as mcolors
 
 Στην παρακάτω εικόνα απεικονίζεται ένα γράφημα Gantt το οποίο αντιστοιχείζεται με την λύση του αλγορίθμου ***NEH*** για το πρώτο αρχείο `ta001.txt` :
 
-<img src="https://github.com/penyvinni/AADS_PFSP_170/blob/main/neh_run_ta001_gantt.png" width="400">
+<img src="https://github.com/penyvinni/AADS_PFSP_170/blob/main/neh_run_ta001_gantt.png" width="500">

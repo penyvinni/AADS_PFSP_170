@@ -1,2 +1,2 @@
-# AADS_PFSP_170
-Permutation Flow-shop Scheduling Problem (PFSP) 
+# Permutation Flow-shop Scheduling Problem (PFSP) 
+ Υλοποίηση του προβλήματος με τον Αλγόρθμο NEH και τον Tabu

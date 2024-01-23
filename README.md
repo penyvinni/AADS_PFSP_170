@@ -1,4 +1,4 @@
-# Permutation Flow-shop Scheduling Problem (PFSP) 
+# Permutation Flow-shop Scheduling Problem (PFSP) ☑
 * Η παρούσα εργασία αναλύει το πρόβλημα PFSP (Permutation Flow Shop Scheduling Problem)
 με στόχο την εξέταση και την επίλυσή του μέσω διαφόρων αλγορίθμων.
 * Εφαρμόζεται ο ευρετικός αλγόριθμος NEH για την αρχική επίλυση, ακολουθούμενη από τη
